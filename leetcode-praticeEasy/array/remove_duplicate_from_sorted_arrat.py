@@ -13,6 +13,4 @@ for j in range(1, len(nums)) :
 i += 1
     
 print(i) 
-
-        
     
